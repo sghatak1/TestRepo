@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+	<reporter-output>
+	</reporter-output>
+	<suite name="test.java.NewTest" duration-ms="118"
+		started-at="2015-03-01T17:32:19Z" finished-at="2015-03-01T17:32:19Z">
+		<groups>
+		</groups>
+		<test name="Command line test" duration-ms="118" started-at="2015-03-01T17:32:19Z"
+			finished-at="2015-03-01T17:32:19Z">
+			<class name="test.java.NewTest">
+				<test-method status="PASS"
+					signature="beforeMethod()[pri:0, instance:test.java.NewTest@1550481]"
+					name="beforeMethod" is-config="true" duration-ms="43"
+					started-at="2015-03-01T23:02:19Z" finished-at="2015-03-01T23:02:19Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- beforeMethod -->
+				<test-method status="PASS"
+					signature="f()[pri:0, instance:test.java.NewTest@1550481]" name="f"
+					duration-ms="4" started-at="2015-03-01T23:02:19Z" finished-at="2015-03-01T23:02:19Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- f -->
+				<test-method status="PASS"
+					signature="afterMethod()[pri:0, instance:test.java.NewTest@1550481]"
+					name="afterMethod" is-config="true" duration-ms="1"
+					started-at="2015-03-01T23:02:19Z" finished-at="2015-03-01T23:02:19Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- afterMethod -->
+			</class> <!-- test.java.NewTest -->
+		</test> <!-- Command line test -->
+	</suite> <!-- test.java.NewTest -->
+</testng-results>

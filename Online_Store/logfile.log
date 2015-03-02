@@ -1,0 +1,36 @@
+2015-03-01 01:45:50,706 INFO  [Log] **************************************************************************************** 
+2015-03-01 01:45:50,710 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Search_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-03-01 01:45:50,710 INFO  [Log] **************************************************************************************** 
+2015-03-01 01:45:50,727 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:45:50,728 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:45:50,729 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:45:50,729 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:45:52,108 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-03-01 01:45:52,109 INFO  [Log] X 
+2015-03-01 01:45:52,109 INFO  [Log] X 
+2015-03-01 01:45:52,109 INFO  [Log] X 
+2015-03-01 01:45:52,109 INFO  [Log] X 
+2015-03-01 01:47:06,186 INFO  [Log] **************************************************************************************** 
+2015-03-01 01:47:06,189 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Search_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-03-01 01:47:06,189 INFO  [Log] **************************************************************************************** 
+2015-03-01 01:47:06,202 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:47:06,206 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:47:06,207 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:47:06,208 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:47:07,261 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-03-01 01:47:07,261 INFO  [Log] X 
+2015-03-01 01:47:07,261 INFO  [Log] X 
+2015-03-01 01:47:07,262 INFO  [Log] X 
+2015-03-01 01:47:07,262 INFO  [Log] X 
+2015-03-01 01:48:24,813 INFO  [Log] **************************************************************************************** 
+2015-03-01 01:48:24,833 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Search_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-03-01 01:48:24,833 INFO  [Log] **************************************************************************************** 
+2015-03-01 01:48:24,846 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:48:24,846 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:48:24,847 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:48:24,848 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-03-01 01:48:25,779 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-03-01 01:48:25,780 INFO  [Log] X 
+2015-03-01 01:48:25,780 INFO  [Log] X 
+2015-03-01 01:48:25,780 INFO  [Log] X 
+2015-03-01 01:48:25,780 INFO  [Log] X 
