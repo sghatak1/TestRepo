@@ -1,0 +1,4 @@
+test\TestCreateAccount.class
+pages\AccountEntryPage.class
+pages\LoginPage.class
+pages\HomePage.class
