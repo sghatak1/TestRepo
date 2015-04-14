@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="test.TestAmazonOnline">
+        <methods>
+          <include name="customer_signin"/>
+          <include name="customer_registration"/>
+          <include name="order_product"/>
+          <include name="setup"/>
+          <include name="edit_shopping_basket"/>
+          <include name="select_product"/>
+          <include name="product_search"/>
+          <include name="customer_address"/>
+          <include name="edit_order_product"/>
+          <include name="customer_delivery"/>
+        </methods>
+      </class> <!-- test.TestAmazonOnline -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

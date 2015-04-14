@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="240644" started-at="2015-04-14T10:08:18Z" finished-at="2015-04-14T10:12:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="240644" started-at="2015-04-14T10:08:18Z" finished-at="2015-04-14T10:12:18Z">
+      <class name="test.TestAmazonOnline">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="setup" is-config="true" duration-ms="86016" started-at="2015-04-14T15:38:18Z" finished-at="2015-04-14T15:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="product_search()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="product_search" duration-ms="23123" started-at="2015-04-14T15:39:44Z" finished-at="2015-04-14T15:40:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_search -->
+        <test-method status="PASS" signature="select_product()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="select_product" duration-ms="4234" started-at="2015-04-14T15:40:07Z" finished-at="2015-04-14T15:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_product -->
+        <test-method status="PASS" signature="order_product()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="order_product" duration-ms="62618" started-at="2015-04-14T15:40:11Z" finished-at="2015-04-14T15:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_product -->
+        <test-method status="PASS" signature="edit_order_product()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="edit_order_product" duration-ms="5236" started-at="2015-04-14T15:41:14Z" finished-at="2015-04-14T15:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_order_product -->
+        <test-method status="PASS" signature="edit_shopping_basket()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="edit_shopping_basket" duration-ms="21711" started-at="2015-04-14T15:41:19Z" finished-at="2015-04-14T15:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_shopping_basket -->
+        <test-method status="PASS" signature="customer_signin()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="customer_signin" duration-ms="5138" started-at="2015-04-14T15:41:41Z" finished-at="2015-04-14T15:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_signin -->
+        <test-method status="PASS" signature="customer_registration()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="customer_registration" duration-ms="15422" started-at="2015-04-14T15:41:46Z" finished-at="2015-04-14T15:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_registration -->
+        <test-method status="PASS" signature="customer_address()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="customer_address" duration-ms="14952" started-at="2015-04-14T15:42:01Z" finished-at="2015-04-14T15:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_address -->
+        <test-method status="PASS" signature="customer_delivery()[pri:0, instance:test.TestAmazonOnline@f6e879]" name="customer_delivery" duration-ms="1998" started-at="2015-04-14T15:42:16Z" finished-at="2015-04-14T15:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_delivery -->
+      </class> <!-- test.TestAmazonOnline -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
